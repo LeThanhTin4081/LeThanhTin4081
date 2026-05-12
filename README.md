@@ -2,8 +2,6 @@
 
 📊 Data Science student specialized in SQL, Python, and Power BI. I build automated data pipelines and interactive dashboards to drive measurable business impact through EDA and visualization.
 
----
-
 ### 🛠 Technical Toolbox
 
 | Category | Tools & Technologies |
@@ -13,8 +11,4 @@
 | **Visualization** | ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) • ![D3.js](https://img.shields.io/badge/d3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white) • ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
 | **AI-Assisted Development** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) • ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) • ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white) |
 
----
-
-### 📫 Connect with me:
-[**Portfolio**](https://thanhtinleprofile.vercel.app) | [**LinkedIn**](https://linkedin.com/in/LeThanhTin4081) | [**Email**](mailto:lethanhtin.cv@gmail.com)
 
